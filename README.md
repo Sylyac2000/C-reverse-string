@@ -1,1 +1,2 @@
-C exercices: Reverse string using pointer
+##C exercices: Reverse string using pointer
+
